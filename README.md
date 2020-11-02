@@ -4,7 +4,7 @@ I am beginner DS from Russia nowadays studying at VSB Technical University of Os
 
 - 🔨 I’m currently working on Home works for my school course [Biologically Inspired Algorithms](https://github.com/ens-a/BIA)
 
-- ⚔️ I'm honing my programming skils in [Codewars](https://www.codewars.com/users/ens-a)
+- ⚔️ I'm honing my programming skills in [Codewars](https://www.codewars.com/users/ens-a)
 
 - 📚 I’m currently learning Python, Machine Learning, Statistics
 
