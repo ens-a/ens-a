@@ -2,7 +2,7 @@
 
 I am beginner DS from Russia nowadays studying at VSB Technical University of Ostrava in the Czech Republic.
 
-- 🔨 I’m currently working on Home works for my school course Biologically Inspired Algorithm
+- 🔨 I’m currently working on Home works for my school course [Biologically Inspired Algorithms](https://github.com/ens-a/BIA)
 
 - ⚔️ I'm honing my programming skils in [Codewars](https://www.codewars.com/users/ens-a)
 
